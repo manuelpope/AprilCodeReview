@@ -1,0 +1,14 @@
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/domain/UserType.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/misc/MapperDTO.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/service/UserService.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/repository/UserRepository.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/domain/UserI.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/domain/User.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/repository/ListingRepository.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/misc/AdapterClassProcessor.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/service/ListingService.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/web/ListingController.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/domain/subdomainuser/UserExt.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/ListingApplication.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/web/dto/request/CreateListingRequestDto.java
+/Users/manueltobon/Desktop/AprilCodeReview/src/main/java/ai/aprillabs/listingapp/domain/Listing.java
