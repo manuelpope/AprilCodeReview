@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ai.aprillabs.listingapp.web.ListingControllerTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.639 s - in ai.aprillabs.listingapp.web.ListingControllerTest
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.716 s - in ai.aprillabs.listingapp.web.ListingControllerTest
